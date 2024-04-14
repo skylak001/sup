@@ -1,5 +1,5 @@
 {
-  "name": "@examples/html-wagmi",
+  "name": "html-wagmi",
   "private": true,
   "version": "4.1.7",
   "scripts": {
